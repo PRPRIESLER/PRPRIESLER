@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PRPRIESLER
 - 👀 I’m interested in ...Machine Learning, Deep Learning, Computer Vision, Data Visualization and Artificial Intelligence! 
-- 🌱 I’m currently learning ... Deep Learning
+- 🌱 I’m currently learning ... Deep Learning and getting the hang of Computer Vision
 - 💞️ I’m looking to collaborate on ... Multiple Open Source Projects!
 - 📫 How to reach me ...: https://www.linkedin.com/in/pinaki-ranjan/
 
