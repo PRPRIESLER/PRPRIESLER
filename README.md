@@ -5,7 +5,7 @@
 - 🌐 My Blog website: [The Lazy Learner](https://thelazylearner.netlify.app/)
 - 🌐 My Portfolio website: [Pinaki Pani Portfolio](https://mkumarpani.wixsite.com/pinakipani)
 - 💞️ I’m looking to collaborate on ... Multiple Open Source Projects!
-- 📫 Reach out to me at...: [https://www.linkedin.com/in/pinaki-pani/](https://www.linkedin.com/in/pinaki-pani/)
+- 📫 Reach out to me at...: [LinkedIn Profile](https://www.linkedin.com/in/pinaki-pani/)
 
 <!---
 PRPRIESLER/PRPRIESLER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
