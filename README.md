@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PRPRIESLER
+- 👋 Hi, I’m Pinaki Pani
 - 👀 I’m interested in ...Machine Learning, Deep Learning, Computer Vision, Data Visualization and Artificial Intelligence! 
 - 🌱 I’m currently learning ... Deep Learning & Computer Vision
 - 🎓 Completed Master of Science in Data Analytics in National College of Ireland (2023-2024)!
