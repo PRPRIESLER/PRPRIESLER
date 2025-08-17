@@ -2,6 +2,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, Data Visualization and Artificial Intelligence! 
 - 🌱 I’m currently learning Deep Learning & Computer Vision
 - 🎓 Completed Master of Science in Data Analytics in National College of Ireland (2023-2024)!
+- 🚌 My Dublin Public Transit Stress/Vanished Analytics Dashboard Application [LIVE](https://akii0-dublin-stress-analysis.hf.space/)
 - 🌐 My Blog website: [The Lazy Learner](https://thelazylearner.netlify.app/)
 - 🌐 My Portfolio website: [Pinaki Pani Portfolio](https://mkumarpani.wixsite.com/pinakipani)
 - 💞️ I’m looking to collaborate on Multiple Open Source Projects!
